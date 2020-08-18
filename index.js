@@ -1,1 +1,3 @@
-console.log(1 + 80)
+var number = 5
+number++
+console.log(number)
