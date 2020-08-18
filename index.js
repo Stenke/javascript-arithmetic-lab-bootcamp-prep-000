@@ -10,6 +10,9 @@ function multiply() {
 function divide() {
   return "'divide()' is a valid function"
 }
+function add(a, b) {
+  return a += b
+}
 function increment(n) {
   return n += 1
 }
